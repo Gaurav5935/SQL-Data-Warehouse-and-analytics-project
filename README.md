@@ -23,3 +23,16 @@ This project involves:
 - ETL Pipeline Developer
 - Data Modeling
 - Data Analytics
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Gaurav Gaikwad**, a Data Analyst who loves hearing the stories hidden inside data. Give me data and a cup of coffee, and I'll tell you its past, present, and future.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-gaikwad-74732119a)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav2000gaikwad@gmail.com)
